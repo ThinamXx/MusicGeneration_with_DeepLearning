@@ -11,5 +11,5 @@
 **Snapshot of Loss Function**
 - As we can see that the Loss function is gradually decreasing which means the Model is not over-fitting.
 
-[Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596975902/summm_jhg8bx.png)
+![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596975902/summm_jhg8bx.png)
 
