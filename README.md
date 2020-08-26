@@ -5,7 +5,6 @@
 - A recurrent neural network is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior.
 
 **Snapshot of Model Summary**
-
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596975750/MOd_gnoszb.png)
 
 **Snapshot of Loss Function**
